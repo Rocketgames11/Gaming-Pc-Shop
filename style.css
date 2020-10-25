@@ -1,0 +1,15 @@
+body{ 
+ background-color:black;
+}   
+#text{
+  color: white;
+  margin-left: 40px;
+}
+#link{
+  color: white;
+}
+#box{
+  width:400px ;
+}
+#text a:link{color:white;}
+#link a:link{color:white;}
